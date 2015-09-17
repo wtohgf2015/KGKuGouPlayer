@@ -11,7 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A6B334F0588896570DEEA1E5950F2DA3455BE8A4</key>
-		<string>https://github.com/wtohgf2015/KGKuGouPlayer.git</string>
+		<string>ssh://github.com/wtohgf2015/KGKuGouPlayer.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>KGKuGouPlayer.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/wtohgf2015/KGKuGouPlayer.git</string>
+	<string>ssh://github.com/wtohgf2015/KGKuGouPlayer.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
